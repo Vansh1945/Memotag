@@ -2,7 +2,7 @@
 import { motion } from 'framer-motion';
 import { useEffect, useRef, useState } from 'react';
 import Image from 'next/image';
-import aiims from '../../public/assets/aiims.png';
+import aiims from '../../public/assets/AIIMS.png';
 import who from '../../public/assets/who.svg';
 import applo from '../../public/assets/applo.png';
 import nimhns from '../../public/assets/Nimhans.png';
